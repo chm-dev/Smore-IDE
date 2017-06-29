@@ -1,0 +1,13 @@
+{
+  "name": "smoresoftware-ide",
+  "version": "0.1.0",
+  "author": "TJDoesCode",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "monaco-loader": "^0.8.2"
+  },
+  "entry": "index.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}

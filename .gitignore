@@ -1,0 +1,9 @@
+#Individual JSON files are ignored because the package.json is required
+#for easy instillation and distribution. LEAVE THAT ALONE!
+#DO NOT ignore *.json
+#THIS IS A WARNING TO ALL CONTRIBUTORS
+config.json
+config.JSON
+node_modules/*
+package-lock.json
+package-lock.JSON
