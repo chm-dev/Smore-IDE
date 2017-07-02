@@ -3,7 +3,6 @@ const {
 } = require('electron');
 const loader = require('monaco-loader');
 const fs = require('fs');
-const Discord = require('discord.js');
 
 loader().then((monaco) => {
   let editor = monaco.editor.create(document.querySelector('#container'), {
